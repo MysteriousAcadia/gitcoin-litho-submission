@@ -1,0 +1,17 @@
+Hey everyone, in this video, we'll be exploring the Litho NFT market place.
+
+Litho is a digital asset marketplace for the CENNZnet blockchain. You can use Litho to mint your own nfts, add title, description and other meta data. You can even set a percentage of royalty you would gain from each sale of the NFT.
+
+In this video we'll be
+
+Setting up the CENNZnet browser extension, Creating a CENNZnet wallet and adding CPAY tokens and finally minting a NFT using the Litho marketplace.
+
+To install the browser extension, go to the link provided in the description, Click add to chrome and select Add Extension. Once it's added you'll get a notification. YOu can pin the extension for easy access.
+
+Now that we have the extension added, let's create an account. Click on the extension and click the plus icon. A mnemonic seed will be generated. Store this securely and do not share this with anyone. Once done click on next step. Here you can set a name for your wallet, and a password to verify you before each transaction. Go ahead and fill this up and click Add account. Now your account is created.
+
+Now let's add some tokens to our wallet using the faucet. You can use the link in the description. Click the browser extension and click on your account to copy your address. Paste it here and click send funds. After sometime the funds would be transferred to your account.
+
+Now let's go to the litho marketplace. The link will be in the description. Click on connect wallet and select your wallet. You will be asked to update the metadata so do that. Once done your account is linked. Now click on the create button or mint NFt. Here you will be asked for a title, description and number of copies of the nft. You can edit advanced options as well. These are optional. Here you can set up royalty percent, which defines a percent cut from each sale of the token and add attributes, which m. Once you've filled it, you can click next to upload the asset. Here select Choose from folder and select the asset you want to upload.  You can choose the content storage if applicable. It defaults to IPFS. Once done click on preview to view preview of your nft. Once you've finalized, you can click on mint to create it. It will take some time to upload the assets. Once it's uploaded, you'll be prompted to authorize 2 transactions, the first one is to create a collection and the second is to mint the nft. Enter your password and approve it. once done You'll get a conformation that your NFT is created successfully. To view your NFTs, click on the top right button showing your wallet and then click my profile. here you can see all of your NFTs. On clicking it, you can view the details of the NFT. here you can view the ipfs link and ipfs meta data.
+
+To view the transaction you can head over to [https://uncoverexplorer.com/](https://uncoverexplorer.com/) Select your network and fill your wallet address here you can see your transactions.
