@@ -1,0 +1,177 @@
+1
+00:00:00,140 --> 00:00:06,230
+Hey everyone, in this video, we'll be exploring
+the Litho NFT market place.
+
+2
+00:00:06,230 --> 00:00:12,490
+Litho is a digital asset marketplace for the
+CENNZnet blockchain. You can use Litho to
+
+3
+00:00:12,490 --> 00:00:19,439
+mint your own nfts, add title, description
+and other meta data. You can even set a percentage
+
+4
+00:00:19,439 --> 00:00:23,930
+of royalty you would gain from each sale of
+the NFT.
+
+5
+00:00:23,930 --> 00:00:25,210
+In this video we'll be
+
+6
+00:00:25,210 --> 00:00:31,909
+Setting up the CENNZnet browser extension,
+Creating a CENNZnet wallet and adding CPAY
+
+7
+00:00:31,909 --> 00:00:37,320
+tokens and finally minting a NFT using the
+Litho marketplace.
+
+8
+00:00:37,320 --> 00:00:43,140
+To install the browser extension, go to the
+link provided in the description, Click add
+
+9
+00:00:43,140 --> 00:00:49,789
+to chrome and select Add Extension. Once it's
+added you'll get a notification. YOu can pin
+
+10
+00:00:49,789 --> 00:00:52,750
+the extension for easy access.
+
+11
+00:00:52,750 --> 00:00:58,629
+Now that we have the extension added, let's
+create an account. Click on the extension
+
+12
+00:00:58,629 --> 00:01:05,190
+and click the plus icon. A mnemonic seed will
+be generated. Store this securely and do not
+
+13
+00:01:05,190 --> 00:01:11,380
+share this with anyone. Once done click on
+next step. Here you can set a name for your
+
+14
+00:01:11,380 --> 00:01:17,600
+wallet, and a password to verify you before
+each transaction. Go ahead and fill this up
+
+15
+00:01:17,600 --> 00:01:25,100
+and click Add account. Now your account is
+created.
+
+16
+00:01:25,100 --> 00:01:32,320
+Now let's add some tokens to our wallet using
+the faucet. You can use the link in the description.
+
+17
+00:01:32,320 --> 00:01:37,820
+Click the browser extension and click on your
+account to copy your address. Paste it here
+
+18
+00:01:37,820 --> 00:01:48,340
+and click send funds. After sometime the funds
+would be transferred to your account.
+
+19
+00:01:48,340 --> 00:01:53,890
+Now let's go to the litho marketplace. The
+link will be in the description. Click on
+
+20
+00:01:53,890 --> 00:02:01,380
+connect wallet and select your wallet. You
+will be asked to update the metadata so do
+
+21
+00:02:01,380 --> 00:02:09,899
+that. Once done your account is linked. Now
+click on the create button or mint NFt. Here
+
+22
+00:02:09,899 --> 00:02:19,890
+you will be asked for a title, description
+and number of copies of the nft. You can edit
+
+23
+00:02:19,890 --> 00:02:26,940
+advanced options as well. These are optional.
+Here you can set up royalty percent, which
+
+24
+00:02:26,940 --> 00:02:35,080
+defines a percent cut from each sale of the
+token and add attributes, which m. Once you've
+
+25
+00:02:35,080 --> 00:02:41,670
+filled it, you can click next to upload the
+asset. Here select Choose from folder and
+
+26
+00:02:41,670 --> 00:02:51,510
+select the asset you want to upload. You can
+choose the content storage if applicable.
+
+27
+00:02:51,510 --> 00:03:00,310
+It defaults to IPFS. Once done click on preview
+to view preview of your nft. Once you've finalized,
+
+28
+00:03:00,310 --> 00:03:06,989
+you can click on mint to create it. It will
+take some time to upload the assets. Once
+
+29
+00:03:06,989 --> 00:03:13,840
+it's uploaded, you'll be prompted to authorize
+2 transactions, the first one is to create
+
+30
+00:03:13,840 --> 00:03:22,841
+a collection and the second is to mint the
+nft. Enter your password and approve it. once
+
+31
+00:03:22,841 --> 00:03:34,150
+done You'll get a conformation that your NFT
+is created successfully. To view your NFTs,
+
+32
+00:03:34,150 --> 00:03:40,390
+click on the top right button showing your
+wallet and then click my profile. here you
+
+33
+00:03:40,390 --> 00:03:48,040
+can see all of your NFTs. On clicking it,
+you can view the details of the NFT. here
+
+34
+00:03:48,040 --> 00:03:53,209
+you can view the ipfs link and ipfs meta data.
+
+35
+00:03:53,209 --> 00:03:58,470
+To view the transaction you can head over
+to [https://uncoverexplorer.com/](https://uncoverexplorer.com/)
+
+36
+00:03:58,470 --> 00:04:03,439
+Select your network and fill your wallet address
+here you can see your transactions.
+
